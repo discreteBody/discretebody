@@ -86,7 +86,7 @@ I specialize in translating complex requirements into clean, efficient code, imp
 
 ### 📫 Connect with me
 📧 **[chilamakuri604@gmail.com](mailto:chilamakuri604@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/chilmakurinarasimhasai/)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/discretebody/)**  
 💻 **[Codolio Profile](https://codolio.com/profile/discretebody)**
 
 ---
