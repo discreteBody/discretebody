@@ -149,13 +149,13 @@ I specialize in translating complex requirements into clean, efficient code, imp
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhaChilmakuri&theme=radical&layout=compact&border=false&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discretebody&theme=radical&layout=compact&border=false&count_private=true" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=narasimhaChilmakuri&theme=radical&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=discretebody&theme=radical&include_all_commits=true&count_private=true" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=narasimhaChilmakuri&theme=radical" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=discretebody&theme=radical" />
     </td>
   </tr>
 </table>
@@ -164,13 +164,13 @@ I specialize in translating complex requirements into clean, efficient code, imp
 
 ## 📈 Contribution Graph  
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=narasimhaChilmakuri&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=discretebody&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false">
 </div>
 
 ---
 
 ## 🏅 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=narasimhaChilmakuri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=discretebody&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
