@@ -147,25 +147,7 @@ I specialize in translating complex requirements into clean, efficient code, imp
 - 🧠 Solved **500+ DSA** problems across LeetCode and CodeChef.  
 - 🎓 **CGPA 8.8** - B.Tech Computer Science, Vel Tech University.
 
----
 
-## 📊 GitHub Stats  
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discretebody&theme=radical&layout=compact&border=false&count_private=true" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=discretebody&theme=radical&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=discretebody&theme=radical" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📈 Contribution Graph  
 <div align="center">
