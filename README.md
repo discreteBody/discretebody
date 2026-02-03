@@ -56,7 +56,7 @@ I specialize in translating complex requirements into clean, efficient code, imp
 ### 🚀 Featured Projects
 
 #### 🌐 [Bandhan](https://github.com/narasimhaChilmakuri/bandhan-x) (Distributed Connections System)
-*Production Ready*
+*Completed*
 - Architected a LinkedIn-like platform handling high-concurrency user graph operations.
 - Optimized 2nd/3rd-degree connection queries using **Neo4j**, reducing traversal time by **40%**.
 - Implemented event-driven architecture with **Kafka** for real-time feeds.
@@ -76,8 +76,13 @@ I specialize in translating complex requirements into clean, efficient code, imp
 *In Development*
 - Developing a microservices-based marketplace aggregating travel packages and local guides.
 - Building personalized itinerary generators using **PostGIS** and geolocation data.
-
 ---
+
+#### 📊 Distributed Observability & Monitoring Suite
+*Production Ready*
+- Implemented a monitoring solution using **Micrometer** to export JVM and business metrics to a **Prometheus** time-series database for a microservices cluster.
+- Designed **Grafana** dashboards to visualize system health (CPU/Memory) and request latency (**P99**), reducing Mean Time to Detection (MTTD) by **40%**.
+- Configured **Prometheus Alertmanager** for automated webhook notifications, enabling proactive resolution of resource bottlenecks.
 
 ### 💬 Ask me about  
 **Distributed Systems, Microservices Patterns, Database Internals, and Java Concurrency**
