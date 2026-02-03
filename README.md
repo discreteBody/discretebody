@@ -68,7 +68,7 @@ I specialize in translating complex requirements into clean, efficient code, imp
 - Designed for horizontal scalability to support millions of active short links.
 
 #### 💸 Smart Expense Splitter
-*Completed*
+*In Development*
 - Built a backend engine with graph-based **debt simplification algorithms** to minimize transaction volume.
 - Handled complex concurrency edge cases using optimistic locking.
 
