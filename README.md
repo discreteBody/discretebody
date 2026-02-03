@@ -61,7 +61,7 @@ I specialize in translating complex requirements into clean, efficient code, imp
 - Optimized 2nd/3rd-degree connection queries using **Neo4j**, reducing traversal time by **40%**.
 - Implemented event-driven architecture with **Kafka** for real-time feeds.
 
-#### 🔗 [Scalable URL Shortener] (https://github.com/discreteBody/UrlShortner)
+#### 🔗 [Scalable URL Shortener](https://github.com/discreteBody/UrlShortner)
 *Completed*
 - Developed a high-performance service using **Base62 encoding** and **Snowflake algorithm**.
 - Engineered a **Redis** caching layer for sub-millisecond redirection latency.
