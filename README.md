@@ -156,11 +156,6 @@ I specialize in translating complex requirements into clean, efficient code, imp
 
 ---
 
-## 🏅 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=discretebody&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
