@@ -56,29 +56,25 @@ I specialize in translating complex requirements into clean, efficient code, imp
 ### 🚀 Featured Projects
 
 #### 🌐 [Bandhan](https://github.com/narasimhaChilmakuri/bandhan-x) (Distributed Connections System)
-*Completed*
 - Architected a LinkedIn-like platform handling high-concurrency user graph operations.
 - Optimized 2nd/3rd-degree connection queries using **Neo4j**, reducing traversal time by **40%**.
 - Implemented event-driven architecture with **Kafka** for real-time feeds.
 
 #### 🔗 [Scalable URL Shortener](https://github.com/discreteBody/UrlShortner)
-*Completed*
 - Developed a high-performance service using **Base62 encoding** and **Snowflake algorithm**.
 - Engineered a **Redis** caching layer for sub-millisecond redirection latency.
 - Designed for horizontal scalability to support millions of active short links.
 
 #### 💸 Smart Expense Splitter
-*In Development*
 - Built a backend engine with graph-based **debt simplification algorithms** to minimize transaction volume.
 - Handled complex concurrency edge cases using optimistic locking.
 
 #### 🗺️ Integrated Tourism Platform
-*In Development*
 - Developing a microservices-based marketplace aggregating travel packages and local guides.
 - Building personalized itinerary generators using **PostGIS** and geolocation data.
 ---
 
-#### 📊 Distributed Observability & Monitoring Suite
+#### 📊 [Distributed Observability & Monitoring Suite](https://github.com/discreteBody/monitoringSystem)
 *Production Ready*
 - Implemented a monitoring solution using **Micrometer** to export JVM and business metrics to a **Prometheus** time-series database for a microservices cluster.
 - Designed **Grafana** dashboards to visualize system health (CPU/Memory) and request latency (**P99**), reducing Mean Time to Detection (MTTD) by **40%**.
