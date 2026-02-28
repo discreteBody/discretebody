@@ -72,7 +72,6 @@ I specialize in translating complex requirements into clean, efficient code, imp
 #### 🗺️ Integrated Tourism Platform
 - Developing a microservices-based marketplace aggregating travel packages and local guides.
 - Building personalized itinerary generators using **PostGIS** and geolocation data.
----
 
 #### 📊 [Distributed Observability & Monitoring Suite](https://github.com/discreteBody/monitoringSystem)
 *Production Ready*
